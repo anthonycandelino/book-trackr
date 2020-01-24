@@ -1,2 +1,2 @@
 # book-trackr
- Way to track books that you've read
+ Demo App for tracking books that you have read. Deployed at: https://book-trackr.herokuapp.com/
